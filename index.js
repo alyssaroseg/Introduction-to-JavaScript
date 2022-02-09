@@ -19,7 +19,9 @@ Do the following:
 
    HINT: no function required
 */
-
+//const votingAge = '18';
+//console.log(votingAge) 
+  //if (votingAge <= 18)
 
 
 /*
@@ -33,7 +35,6 @@ Do the following:
 
    HINT: no function required
 */
-
 
 
 
@@ -61,9 +62,10 @@ Do the following:
    3. Multiply a and b and return the answer
 */
 
-function multiply(/*add your code here*/){
-  /*add your code here*/
-}
+//function multiply(num1, num2) {
+  //console.log(num1);
+  //console.log(num2);
+  //return num1 * num2;}
 
 
 
@@ -77,8 +79,10 @@ Do the following:
  3. Return the newly calculated age
 */
 
-function dogYears(/*add your code here*/){
-  /*add your code here*/
+function dogYears( num29 ) {
+  const result = num29 * 7;
+  return result;
+  console.log(result);
 }
 
 
